@@ -1,6 +1,4 @@
-# Home
-
-This Home repository is the starting point if you want to learn more about and contribute to the Steeltoe open source project.
+# Steeltoe
 
 Steeltoe is an open source project aimed at taking the tremendously useful tools from Netflix, Spring Cloud and others and making them available to the .NET community.
 

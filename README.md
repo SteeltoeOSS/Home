@@ -6,19 +6,19 @@ It was built to work with .NET Core as well as .NET Framework 4.x.
 
 Today, most of all of the components work stand-alone (e.g., on  your local computer) as well as on Cloud Foundry, the industry leading multi-cloud application platform. In the near future you will see us add to the list of supported cloud application platforms.
 
-Steeltoe strives to build on other technology offerings, such as Netflix and Spring Cloud by providing several packages that enable .NET developers to leverage these tools when implementing some of the common patterns (e.g. centralized configuration management, service discovery, circuit breakers, etc. ) found in highly scalable and resilient distributed systems.
+Steeltoe components typically build on other technology offerings, such as Netflix and Spring Cloud by providing several packages that enable .NET developers to leverage these tools when implementing some of the basic patterns (e.g. centralized configuration management, service discovery, circuit breakers, etc. ) typically found in highly scalable and resilient distributed applications.
 
-For example, using Steeltoe together with Netflix and Spring Cloud services, developers are able to quickly stand up micro-services based applications that utilize the above mentioned patterns and then be easily pushed to Cloud Foundry and other cloud based application platforms.
+For example, using Steeltoe together with Netflix and Spring Cloud, developers are able to quickly stand up micro-services based applications that utilize the above mentioned patterns and run them on Cloud Foundry and other cloud based application platforms.
 
 Steeltoe provides services that broadly fall into two categories:
 
-* Services that simplify using .NET and ASP.NET on Cloud Foundry, etc.:
+* Services that simplify using .NET and ASP.NET on cloud platforms like Cloud Foundry, etc.:
   * Connectors (e.g. MySql, Redis, Postgres, RabbitMQ, OAuth, etc)
   * Configuration providers
   * Security providers (OAuth SSO, JWT, Redis Key Ring Storage, etc.)
   * Logging providers
 
-* Services that enable .NET and ASP.NET developers to leverage Netflix, Spring Cloud and others services:
+* Services that enable .NET and ASP.NET developers to leverage Netflix, Spring Cloud and other industry leading services:
   * Configuration providers (Spring Cloud, Vault, etc.)
   * Service Discovery client (Netflix Eureka, etc.)
   * CircuitBreaker (Netflix Hystrix, etc.)
@@ -28,7 +28,7 @@ Steeltoe is freely [available](https://www.nuget.org/packages?q=steeltoe) for us
 
 ## Project Repositories
 
-Steeltoe is composed of several [repositories](https://github.com/SteeltoeOSS) all found under the SteeltoeOSS organization.  Here are some of the most commonly used:
+Steeltoe is fully open source and is composed of several [repositories](https://github.com/SteeltoeOSS) all found under the SteeltoeOSS organization.  Here are some of the most commonly used:
 
 * [Configuration](https://github.com/SteeltoeOSS/Configuration) - configuration providers which extend the reach of [.NET Configuration](https://github.com/aspnet/Configuration) services
 
@@ -52,7 +52,7 @@ Steeltoe is composed of several [repositories](https://github.com/SteeltoeOSS) a
 
 1. And of course, last but not least, you can always read the [Steeltoe documentation](http://steeltoe.io/docs/).
 
-## NuGet Feeds & Branches
+## Getting the Code
 
 All new Steeltoe development is done on the `dev` branch in each of the above mentioned repositories.
 
@@ -72,13 +72,13 @@ Released and release candidates can be found on [NuGet](https://www.nuget.org/).
 
 ## Engage, Contribute and Provide Feedback
 
-The Steeltoe project encourages contributions both by filing issues and through PRs.
+The Steeltoe project welcomes contributions both by filing issues and through PRs.
 
 Check out the [contributing](https://github.com/SteeltoeOSS/Home/project-docs/contributing.md) page to see how you can get involved and contribute to Steeltoe.
 
-Also its important to note, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
+Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
 If you'd like more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct) write-up.
 
-## License
+## Licenses
 
-The Steeltoe project uses the [Apache 2](LICENSE) license for all of its code.
+The Steeltoe project uses the [Apache 2](LICENSE) license for all of its code.  See the [contribution licensing](https://github.com/SteeltoeOSS/Home/project-docs/contributing-license.md) document for more details.

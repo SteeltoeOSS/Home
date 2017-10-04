@@ -16,7 +16,7 @@ By using Slack for questions, discussions and help, that basically leaves the Gi
 
 If you want to report an issue for a specific Steeltoe package (e.g. Configuration, CircuitBreaker, etc. ) then please open an issue in the appropriate [SteeltoeOSS GitHub repository](https://github.com/SteeltoeOSS).
 
-When reporting issues, please use our [issue reporting template](https://github.com/steeltoeoss/Home/project-docs/bug-template).
+When reporting issues, please use our [issue reporting template](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/bug-template).
 
 You will find that this is the best way to get your issue addressed. Please be as detailed as you can be about the problem. Providing a minimal project with code that illustrates the problem along with a description of the steps to reproduce the problem is ideal.
 
@@ -42,16 +42,16 @@ The best way to get new feature requests implemented is by contributing code. Th
 
 The Steeltoe team welcomes code contributions from the community and as a part of that we recommend the following guidelines for you to follow to ensure your contributions get proper consideration:
 
-* [Workflow](https://github.com/steeltoeoss/Home/project-docs/contributing-workflow.md) - We pulled together a workflow for how to go about contributing code to Steeltoe. We recommend you read through it first and follow it to get the best results.
-* [Licensing](https://github.com/steeltoeoss/Home/project-docs/contributing-license.md) - There are some licensing requirements for code contributions, so please follow through with those.
-* [Code Management](https://github.com/steeltoeoss/Home/project-docs/contributing-code-management.md) - We try to maintain a consistent structure for our code; the repositories they are in and how we mange building and publishing it.  Please try to follow our lead on this.
-* [Coding](https://github.com/steeltoeoss/Home/project-docs/contributing-code-style.md) - While we might not be completely consistent throughout our code base, we are striving to be better, so please try to follow our coding guidelines.
+* [Workflow](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-workflow.md) - We pulled together a workflow for how to go about contributing code to Steeltoe. We recommend you read through it first and follow it to get the best results.
+* [Licensing](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-license.md) - There are some licensing requirements for code contributions, so please follow through with those.
+* [Code Management](https://github.com/SteeltoeOSS/tree/master/Home/project-docs/contributing-code-management.md) - We try to maintain a consistent structure for our code; the repositories they are in and how we mange building and publishing it.  Please try to follow our lead on this.
+* [Coding](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-code-style.md) - While we might not be completely consistent throughout our code base, we are striving to be better, so please try to follow our coding guidelines.
 
 Please note, when you want to contribute code to a specific Steeltoe package (e.g. Configuration, CircuitBreaker, etc. ) then please follow the above guidelines in the appropriate [SteeltoeOSS GitHub repository](https://github.com/SteeltoeOSS). Specifically, open issues, carry on contribution discussions, and submit PRs, in the repository to which your contribution will be made.
 
 ## General Contribution Guidelines
 
-* Please try to follow our [coding guidelines](https://github.com/steeltoeoss/Home/project-docs/contributing-coding.md) but give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
+* Please try to follow our [coding guidelines](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-coding.md) but give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
 * Please include tests when adding new features. We recommend when fixing bugs, start with adding a test that highlights how the current behavior is broken.
 * Please keep all discussions focused. When a new or related topic comes up it's often better to create new thread of discussion than to side track the discussion.
 * Please blog and tweet (or whatever) about your contributions, frequently!
@@ -72,6 +72,6 @@ Specifically, the Steeltoe project recognizes the following roles within the pro
 * Contributor
 * User
 
-See [code maintainers](https://github.com/steeltoeoss/Home/project-docs/code-maintainers.md) to find the current project members and the roles they play within the project.
+See [code maintainers](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/code-maintainers.md) to find the current project members and the roles they play within the project.
 
 In addition, as we fully support and desire the involvement from the larger open source community, all decision making will be conducted in the open and based on a model outlined in the .NET Foundations project governance document mentioned above. When project decisions need to be made, it will be the responsibility of the project lead(s) to make those final decisions, with the help and guidance from the project maintainers, contributors and the larger open source community.

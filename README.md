@@ -74,11 +74,11 @@ Released and release candidates can be found on [NuGet](https://www.nuget.org/).
 
 The Steeltoe project welcomes contributions both by filing issues and through PRs.
 
-Check out the [contributing](https://github.com/SteeltoeOSS/Home/project-docs/contributing.md) page to see how you can get involved and contribute to Steeltoe.
+Check out the [contributing](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing.md) page to see how you can get involved and contribute to Steeltoe.
 
 Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
 If you'd like more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct) write-up.
 
 ## Licenses
 
-The Steeltoe project uses the [Apache 2](LICENSE) license for all of its code.  See the [contribution licensing](https://github.com/SteeltoeOSS/Home/project-docs/contributing-license.md) document for more details.
+The Steeltoe project uses the [Apache 2](LICENSE) license for all of its code.  See the [contribution licensing](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-license.md) document for more details.

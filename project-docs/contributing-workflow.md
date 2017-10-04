@@ -4,13 +4,13 @@ First, thank you for your interest in contributing to Steeltoe! We really apprec
 
 If you would like to contribute code to one of our repositories, first identify the scale of what you would like to contribute. If it is small (e.g. grammar/spelling) feel free to start working on a fix and submit a PR with your changes.
 
-If you are submitting a feature or substantial code contribution, please follow the recommended workflow below and discuss your ideas with the maintainers to ensure it fits with the direction of the project. See the [code maintainers](https://github.com/steeltoeoss/Home/project-docs/code-maintainers.md) document for who to reach out to.
+If you are submitting a feature or substantial code contribution, please follow the recommended workflow below and discuss your ideas with the maintainers to ensure it fits with the direction of the project. See the [code maintainers](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/code-maintainers.md) document for who to reach out to.
 
 ## Suggested Workflow
 
 We want to keep it as easy as possible for you to contribute changes, so here is a workflow that you can follow to ensure your changes or issues get proper consideration.
 
-1. Create an issue for your work. You can skip this step for trivial changes or reuse an existing issue if there is one. Use [code maintainers](https://github.com/steeltoeoss/Home/project-docs/code-maintainers.md) to find relevant project maintainers and @ mention them to ask for feedback on your issue.
+1. Create an issue for your work. You can skip this step for trivial changes or reuse an existing issue if there is one. Use [code maintainers](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/code-maintainers.md) to find relevant project maintainers and @ mention them to ask for feedback on your issue.
 1. Get agreement from the team and the community that your proposed changes are good.
 1. Clearly state that you are going to take on implementing it, if that's the case. You can request that the issue be assigned to you.
 1. Create a personal fork of the repository on GitHub.

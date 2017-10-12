@@ -63,7 +63,7 @@ Please note, when you want to contribute code to a specific Steeltoe package (e.
 
 ## Governance Model
 
-As a member of the [.NET Foundation](https://dotnetfoundation.org/), the Steeltoe project has adopted a [project governance](https://github.com/dotnet/home/blob/master/governance/project-governance.md) model in line with that recommended by the Foundation.
+As a member of the [.NET Foundation](https://dotnetfoundation.org/), the Steeltoe project has adopted a [project governance model](https://github.com/dotnet/home/blob/master/governance/project-governance.md) in line with that recommended by the .NET Foundation.
 
 Specifically, the Steeltoe project recognizes the following roles within the project:
 
@@ -72,6 +72,6 @@ Specifically, the Steeltoe project recognizes the following roles within the pro
 * Contributor
 * User
 
-See [code maintainers](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/code-maintainers.md) to find the current project members and the roles they play within the project.
+See [code maintainers](project-docs/code-maintainers.md) to find the current project members and the roles they play within the project.
 
-In addition, as we fully support and desire the involvement from the larger open source community, all decision making will be conducted in the open and based on a model outlined in the .NET Foundations project governance document mentioned above. When project decisions need to be made, it will be the responsibility of the project lead(s) to make those final decisions, with the help and guidance from the project maintainers, contributors and the larger open source community.
+In addition, as we fully support and desire the involvement from the larger open source community, all decision making will be conducted in the open and based on a model outlined in the .NET Foundation project governance document mentioned above. When project decisions need to be made, it will be the responsibility of the project lead(s) to make those final decisions, with the help and guidance from the project maintainers, contributors and the larger open source community.

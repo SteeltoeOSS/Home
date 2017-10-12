@@ -79,6 +79,10 @@ Check out the [contributing](https://github.com/SteeltoeOSS/Home/tree/master/pro
 Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
 If you'd like more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct) write-up.
 
+## Governance Model
+
+As a member of the [.NET Foundation](https://dotnetfoundation.org/), the Steeltoe project has adopted a [project governance](https://github.com/dotnet/home/blob/master/governance/project-governance.md) model in line with that recommended by the Foundation.
+
 ## Licenses
 
-The Steeltoe project uses the [Apache 2](LICENSE) license for all of its code.  See the [contribution licensing](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing-license.md) document for more details.
+The Steeltoe project uses the [Apache License Version 2.0](LICENSE) license for all of its code.  See the [contribution licensing](project-docs/contributing-license.md) document for more details.

@@ -7,17 +7,17 @@
 * [General Contribution Guidelines](#contribution-guidelines)
 * [Governance Model](#governance-model)
 
+## <a name="getting-started"></a>Starting Discussions, Providing Feedback or Need Help 
+
 One of the easiest ways to contribute is to participate in discussions, provide feedback or simply submit issues when you encounter them.
 
 Of course, we also accept code contributions by submitting pull requests (PR) with code changes.
 
-## <a name="getting-started"></a>Starting Discussions, Providing Feedback or Need Help 
-
-The Steeltoe team hangs out on the [Steeltoe Slack channel](https://slack.steeltoe.io), so if you want to start a general discussion, provide feedback or have a question about using Steeltoe, feel free to contact us on Slack.  Also, if you have a desire to get involved, but don't know what to do, then reach out to us on Slack. We are glad to help!
+The Steeltoe team is available on the [Steeltoe Slack channel](https://slack.steeltoe.io), so if you want to start a general discussion, provide feedback or have a question about using Steeltoe, feel free to contact us on Slack.  Also, if you have a desire to get involved, but don't know what to do, then reach out to us on Slack. We are glad to help!
 
 Remember, one of the great things about Slack is that you can search the above channels content to see if your idea or question has been discussed already.
 
-By using Slack for questions, discussions and help, that basically leaves the Github issue tracker for use in reporting bugs and feature requests only.
+By using Slack for questions, discussions and help, that basically leaves the GitHub issue tracker for use in reporting bugs and feature requests only.
 
 ## <a name="reporting-issues"></a>Reporting Issues
 
@@ -43,7 +43,7 @@ Make sure before you submit the issue to check the formatting of the content. Re
 
 ## <a name="feature-requests"></a>Feature Requests
 
-The best way to get new feature requests implemented is by contributing code. That said, if you don't feel you have time or the ability to contribute code, then please feel free to start a discussion around your idea or new feature suggestion in the [Steeltoe Slack channel](https://steeltoeteam.slack.com).
+The best way to get new feature requests implemented is by contributing code. That said, if you don't feel you have time or the ability to contribute code, then please feel free to start a discussion around your idea or new feature suggestion in the [Steeltoe Slack channel](https://slack.steeltoe.io).
 
 ## <a name="contributing-code"></a>Contributing Code
 

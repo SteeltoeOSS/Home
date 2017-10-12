@@ -1,5 +1,14 @@
 # Steeltoe
 
+* [What is Steeltoe?](#overview)
+* [Project Repositories](#project-repositories)
+* [Getting Started](#getting-started)
+* [Getting the Code](#getting-code)
+* [Contributing](#contributing)
+* [Governance Model](#governance-model)
+* [Licenses](#licenses)
+
+## <a name="overview"></a>What is Steeltoe?
 Steeltoe is an open source project aimed at taking the tremendously useful tools from Netflix, Spring Cloud and others and making them available to the .NET community.
 
 It was built to work with .NET Core as well as .NET Framework 4.x.
@@ -26,7 +35,7 @@ Steeltoe provides services that broadly fall into two categories:
 
 Steeltoe is freely [available](https://www.nuget.org/packages?q=steeltoe) for usage today.  See the [documentation](http://http://steeltoe.io/) on the Steeltoe web site.
 
-## Project Repositories
+## <a name="project-repositories"></a>Project Repositories
 
 Steeltoe is fully open source and is composed of several [repositories](https://github.com/SteeltoeOSS) all found under the SteeltoeOSS organization.  Here are some of the most commonly used:
 
@@ -42,7 +51,7 @@ Steeltoe is fully open source and is composed of several [repositories](https://
 
 * [Management](https://github.com/SteeltoeOSS/Management) - add monitoring and management to production based application
 
-## Getting Started
+## <a name="getting-started"></a>Getting Started
 
 1. Perform any of the several [Quick Starts](http://steeltoe.io/docs/steeltoe-configuration/#1-1-quick-start) you will find in the [Steeltoe documentation](http://steeltoe.io/docs/).
 
@@ -52,7 +61,7 @@ Steeltoe is fully open source and is composed of several [repositories](https://
 
 1. And of course, last but not least, you can always read the [Steeltoe documentation](http://steeltoe.io/docs/).
 
-## Getting the Code
+## <a name="getting-code"></a>Getting the Code
 
 All new Steeltoe development is done on the `dev` branch in each of the above mentioned repositories.
 
@@ -70,7 +79,7 @@ Released and release candidates can be found on [NuGet](https://www.nuget.org/).
 
 * [Release or Release Candidate feed](https://www.nuget.org/)
 
-## Engage, Contribute and Provide Feedback
+## <a name="contributing"></a>Engage, Contribute and Provide Feedback
 
 The Steeltoe project welcomes contributions both by filing issues and through PRs.
 
@@ -79,10 +88,10 @@ Check out the [contributing](https://github.com/SteeltoeOSS/Home/tree/master/pro
 Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
 If you'd like more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct) write-up.
 
-## Governance Model
+## <a name="governance-model"></a>Governance Model
 
 As a member of the [.NET Foundation](https://dotnetfoundation.org/), the Steeltoe project has adopted a [project governance](https://github.com/dotnet/home/blob/master/governance/project-governance.md) model in line with that recommended by the Foundation.
 
-## Licenses
+## <a name="licenses"></a>Licenses
 
 The Steeltoe project uses the [Apache License Version 2.0](LICENSE) license for all of its code.  See the [contribution licensing](project-docs/contributing-license.md) document for more details.

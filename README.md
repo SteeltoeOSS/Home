@@ -32,9 +32,7 @@ Steeltoe provides services that broadly fall into two categories:
   * CircuitBreaker (Netflix Hystrix, etc.)
   * Management
 
-[Steeltoe is freely available](https://www.nuget.org/packages?q=steeltoe) for production application usage today.
-
-See the [official Steeltoe documentation](https://steeltoe.io/) for in-depth information, or jump into the deep end with the [Steeltoe project list](project-docs/project-list.md) for brief descriptions of each project, build statuses, and links to the source code.
+[Steeltoe is freely available](https://www.nuget.org/packages?q=steeltoe) for production application usage today. Be sure to visit the [official Steeltoe site](https://steeltoe.io/).
 
 ## Project Repositories
 
@@ -52,15 +50,17 @@ Steeltoe is fully open source and is composed of several [repositories](https://
 
 * [Security](https://github.com/SteeltoeOSS/Security) - simplify integration of security services provided by the cloud platform.
 
+View the [Steeltoe project list](project-docs/project-list.md) for brief descriptions of all projects, build statuses, and links to the source code.
+
 ## Getting Started
 
-1. Perform any of the several [Quick Starts](https://steeltoe.io/docs/steeltoe-configuration/#1-1-quick-start) you will find in the [Steeltoe documentation](https://steeltoe.io/docs/).
+1. Perform any of the several [Quick Starts](https://steeltoe.io/docs/steeltoe-configuration/#1-1-quick-start) you will find throughout the [Steeltoe documentation](https://steeltoe.io/docs/).
 
 1. Review, run, and modify the extensive collection of [Samples](https://github.com/SteeltoeOSS/Samples) available on Github.
 
 1. Run through the freely available [Workshop](https://github.com/SteeltoeOSS/Workshop) which contains labs and lab write-ups for most all of the Steeltoe packages.
 
-1. And of course, last but not least, you can always read the [Steeltoe documentation](https://steeltoe.io/docs/).
+1. To get down into the details of any Steeltoe project, read the [documentation](https://steeltoe.io/docs/).
 
 ## Getting the Code
 

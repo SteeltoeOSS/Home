@@ -40,15 +40,17 @@ Steeltoe is fully open source and is composed of several [repositories](https://
 
 * [Configuration](https://github.com/SteeltoeOSS/Configuration) - configuration providers which extend the reach of [.NET Configuration](https://github.com/aspnet/Configuration) services
 
-* [CircuitBreaker](https://github.com/SteeltoeOSS/CircuitBreaker) - monitor and isolate requests to remote dependent services with latency and fault tolerance logic.
+* [CircuitBreaker](https://github.com/SteeltoeOSS/CircuitBreaker) - monitor and isolate requests to remote dependent services with latency and fault tolerance logic
 
 * [Connectors](https://github.com/SteeltoeOSS/Connectors) - simplify the process of configuring and using back-end services locally and in the cloud
 
-* [Discovery](https://github.com/SteeltoeOSS/Discovery) - provide the ability to register and discover services locally and in the cloud.
+* [Discovery](https://github.com/SteeltoeOSS/Discovery) - provide the ability to register and discover services locally and in the cloud
 
 * [Management](https://github.com/SteeltoeOSS/Management) - add monitoring and management to production based application
 
-* [Security](https://github.com/SteeltoeOSS/Security) - simplify integration of security services provided by the cloud platform.
+* [Security](https://github.com/SteeltoeOSS/Security) - simplify integration of security services provided by the cloud platform
+
+* [Logging](https://github.com/SteeltoeOSS/Logging) - adds logging extensions
 
 View the [Steeltoe project list](project-docs/project-list.md) for brief descriptions of all projects, build statuses, and links to the source code.
 

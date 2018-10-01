@@ -58,7 +58,7 @@ Please note, when you want to contribute code to a specific Steeltoe package (e.
 
 ## General Contribution Guidelines
 
-* Please try to follow our [coding guidelines](contributing-coding.md) but give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
+* Please try to follow our [coding guidelines](contributing-code-style.md) but give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
 * Please include tests when adding new features. We recommend when fixing bugs, start with adding a test that highlights how the current behavior is broken.
 * Please keep all discussions focused. When a new or related topic comes up it's often better to create new thread of discussion than to side track the discussion.
 * Please blog and tweet (or whatever) about your contributions, frequently!

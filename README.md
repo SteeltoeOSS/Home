@@ -104,8 +104,8 @@ The Steeltoe project welcomes contributions both by filing issues and through PR
 
 Check out the [contributing](https://github.com/SteeltoeOSS/Home/tree/master/project-docs/contributing.md) page to see how you can get involved and contribute to Steeltoe.
 
-Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/).
-If you'd like more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct) write-up.
+Also its worth noting, the Steeltoe project has adopted the code of conduct defined by the [Contributor Covenant](https://contributor-covenant.org/).
+If you'd like more information, see the [.NET Foundation Code of Conduct](https://www.dotnetfoundation.org/code-of-conduct) write-up.
 
 ## Governance Model
 

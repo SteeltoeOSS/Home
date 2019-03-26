@@ -29,7 +29,7 @@ You should **never** work on a clone of `master`, and you should **never** send 
 
 While you're working away in your branch it's quite possible that the upstream `dev` branch will be updated. If this happens you should:
 
-1. [Stash](http://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning) any un-committed changes you need to save
+1. [Stash](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning) any un-committed changes you need to save
 1. `git checkout dev`
 1. `git pull upstream dev`
 1. `git rebase dev myBranch`
@@ -52,7 +52,7 @@ The systems we use for CI (i.e. AppVeyor and Travis) will automatically perform 
 
 ## Commit Messages
 
-Please format commit messages as follows (based on [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)):
+Please format commit messages as follows (based on [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)):
 
 ```text
 Summarize change in 50 characters or less

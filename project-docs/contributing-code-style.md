@@ -6,7 +6,7 @@ This guide provides instructions which you can follow that will help you during 
 
  While we likely are not completely consistent throughout our code base, we are striving to be better, so please try to follow our coding guidelines. The general set of rules we try to follow is to use "Visual Studio defaults".  As an FYI, most of these guidelines come from the `corefx` C# coding style guide.
 
-1. We use [Allman style](http://en.wikipedia.org/wiki/Indent_style#Allman_style) braces, where each brace begins on a new line. A single line statement block can go without braces but the block must be properly indented on its own line and it must not be nested in other statement blocks that use braces.
+1. We use [Allman style](https://en.wikipedia.org/wiki/Indent_style#Allman_style) braces, where each brace begins on a new line. A single line statement block can go without braces but the block must be properly indented on its own line and it must not be nested in other statement blocks that use braces.
 1. We use four spaces of indentation (no tabs).
 1. We use `_camelCase` for internal and private fields and use `readonly` where possible. Prefix instance fields with `_`, static fields with `s_` and thread static fields with `t_`. When used on static fields, `readonly` should come after `static` (i.e. `static readonly` not `readonly static`).
 1. We avoid `this.` unless absolutely necessary.

@@ -68,7 +68,8 @@ Steeltoe is fully open source and is composed of several [repositories](https://
 View the [Steeltoe project list](project-docs/project-list.md) for brief descriptions of all projects, build statuses, and links to the source code.
 
 ## Roadmaps
-* [2.2.0](roadmaps/2.2.0.md) - In Progress
+* [3.0.0](roadmaps/3.0.0.md) - In Progress
+* [2.2.0](roadmaps/2.2.0.md) - Released
 * [2.1.0](roadmaps/2.1.0.md) - Released
 * [2.0.0](roadmaps/2.0.0.md) - Released
 

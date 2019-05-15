@@ -1,5 +1,8 @@
 # Steeltoe
 
+> NOTICE: This repository has been relocated as a sub-directory under the [Steeltoe](https://github.com/SteeltoeOSS/steeltoe) repository. All issues and future development will be done under that repository. 
+
+
 * [Introduction](#introduction)
 * [Project Repositories](#project-repositories)
 * [Roadmaps](#roadmaps)
